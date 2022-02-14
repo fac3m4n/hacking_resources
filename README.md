@@ -1,4 +1,4 @@
-# hacking_resources
+# Course Resourses
 Yolbelet Ethical Hacking course - Resources
 
 
