@@ -21,7 +21,7 @@ Joplin: https://github.com/laurent22/joplin
 ### Networking Refresher
 Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
 
-Subnet Guide: https://docs.google.com/spreadsheets/d/10huc4YN2YNC8DjK2WNSLt11LBlYEQeLv/edit?usp=sharing&ouid=112113793589868956591&rtpof=true&sd=true
+Subnet Guide: https://docs.google.com/spreadsheets/d/10huc4YN2YNC8DjK2WNSLt11LBlYEQeLv
 
 ### Setting up our Lab
 VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
@@ -32,10 +32,8 @@ Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbo
 
 Offical kali Releases: https://cdimage.kali.org/
 
-### Mid-Course Capstone
-New Capstone boxes: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
-
-Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
+### Mid-Course Boxes
+Hacking boxes: http://s.go.ro/1sx6y7tm
 
 
 ### Introduction to Exploit Development (Buffer Overflows)
@@ -109,8 +107,6 @@ sumrecon: https://github.com/thatonetester/sumrecon
  
  OWASP A10-Insufficient Logging & Monitoring: https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring.html
  
- ### Legal Documents and Report Writing
- Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
   
  ## Tools
  #### Pimpmykali
